@@ -4,6 +4,9 @@
 # Subject : Computer Organization and Assembly Language
     COAL | MASM x86 Assembly Language Project
 
+<font style="color:#fff; font-family: 'Bebas Neue'; 
+font-size: 3.5ch">
+
 <b> By Yasir Hussain </b>
 
 ## Introduction
@@ -90,3 +93,5 @@ basics of assembly into my project. I still need to practice a lot and learn reg
 assembly language and its advanced topics. I hope that this project report gets read 
 because I spent almost half an hour preparing it. That’s all for my concluding 
 thoughts regarding this project
+
+</font>
