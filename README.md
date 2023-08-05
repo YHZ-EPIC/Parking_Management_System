@@ -4,8 +4,7 @@
 # Subject : Computer Organization and Assembly Language
     COAL | MASM x86 Assembly Language Project
 
-< style="color:#fff; font-family: 'Bebas Neue'; 
-font-size: 3.5ch">
+<font style="color:#fff; font-family: 'Bebas Neue'; font-size: 3.5ch">
 
 <p style = "font-size: 2rem"> By Yasir Hussain </p>
 
