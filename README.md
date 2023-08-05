@@ -6,12 +6,13 @@
 
 <font style="color:#fff; font-family: 'Bebas Neue'; font-size: 3.5ch">
 
-### <b> By Yasir Hussain </b> 
+<b> By Yasir Hussain </b> 
 
 ## Introduction
 
 Working on projects is the best way to finalize and refine, what we learnt so far throughout the 
-semester. Initially i couldn’t come up with any ideas so I decided to go the traditional way of 
+semester. \ 
+Initially i couldn’t come up with any ideas so I decided to go the traditional way of 
 doing projects for any programming language and that is creating a Management system. So I
 finalized parking management system to be the project written in x86 assembly language.
 Doing it alone means I can work on my projects whenever and however I see fit and don’t need 
