@@ -92,5 +92,3 @@ basics of assembly into my project. I still need to practice a lot and learn reg
 assembly language and its advanced topics. I hope that this project report gets read 
 because I spent almost half an hour preparing it. That’s all for my concluding 
 thoughts regarding this project
-
-</ font>
