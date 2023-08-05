@@ -4,7 +4,7 @@
 # Subject : Computer Organization and Assembly Language
     COAL | MASM x86 Assembly Language Project
 
-<p style = "font-size: 4ch"> <b> By Yasir Hussain </b> </p>
+<p style = "font-size: 4rem"> <b> By Yasir Hussain </b> </p>
 
 <font style="color:#fff; font-family: 'Bebas Neue'; font-size: 3.5ch">
 
