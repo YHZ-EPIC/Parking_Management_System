@@ -96,7 +96,7 @@ thoughts regarding this project
 
 ## Reference
 
-For Detailed Installation Steps, Kindly Refer to this Official Documentation \
+For Detailed Installation Steps, Kindly Refer to this Official Documentation,
 
 http://asmirvine.com/gettingStartedVS2022/index.htm
 
