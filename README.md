@@ -6,7 +6,7 @@
 
 <font style="color:#fff; font-family: 'Bebas Neue'; font-size: 3.5ch">
 
-<p style = "font-size: 2rem"> By Yasir Hussain </p>
+<p style = "font-size: 4ch"> <b> By Yasir Hussain </b> </p>
 
 ## Introduction
 
