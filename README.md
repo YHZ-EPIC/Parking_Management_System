@@ -8,6 +8,8 @@
 
 <b> By Yasir Hussain </b> 
 
+### Note : Source.asm file contains all the code.
+
 ## Introduction
 
 Working on projects is the best way to finalize and refine, what we learnt so far throughout the 
